@@ -1,2 +1,9 @@
-# as_mesh_to_curve_script
-AS Mesh to Curve script
+# Mesh to Curve script
+
+Convert imported meshes to curves.
+
+Customer: Alexander Sikov
+
+Blender version
+-
+4.1.1.
